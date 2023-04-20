@@ -2,7 +2,7 @@
   "name": "node-tutorial",
   "version": "1.0.0",
   "description": "Node Js Tutorial",
-  "main": "app.js",
+  "main": "server.js",
 
   "scripts": {
     "server": "nodemon server",
