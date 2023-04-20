@@ -1,7 +1,6 @@
-const express = require('express');
+import express from 'express'
 const app = express();
-const Joi = require('@hapi/joi');
-const movies = require('./movies');
+
 
 app.use(express.json());
 
