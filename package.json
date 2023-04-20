@@ -4,6 +4,7 @@
   "description": "Node Js Tutorial",
   "main": "app.js",
   "scripts": {
+    "server": "nodemon server",
     "start": "node app.js"
   },
   "author": "Daily Code Buffer",
