@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Node Js Tutorial",
   "main": "app.js",
+  "type": "module",
   "scripts": {
     "server": "nodemon server",
     "start": "node server.js"
