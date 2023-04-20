@@ -10,6 +10,7 @@
   "author": "Daily Code Buffer",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "@hapi/joi": "^17.1.1",
     "debug": "4.1.1",
